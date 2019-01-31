@@ -13,9 +13,9 @@ const panelTemplate = `
           <span class="panel-info-corner-inner"></span>
         </span>
 
-        <span class="panel-loading" ng-show="ctrl.loading">
+        <!--<span class="panel-loading" ng-show="ctrl.loading">
           <i class="fa fa-spinner fa-spin"></i>
-        </span>
+        </span>-->
 
         <panel-header class="panel-title-container" panel-ctrl="ctrl"></panel-header>
       </div>
